@@ -1,0 +1,5 @@
+{
+  "name": "CBL/VDL Intelligent Analyzer",
+  "description": "Advanced Cement Bond Log and Variable Density Log analysis tool for Petroleum Engineers. Upload PDF logs to identify bonding quality, detect anomalies, and generate bilingual technical reports (Arabic/English).",
+  "requestFramePermissions": []
+}
